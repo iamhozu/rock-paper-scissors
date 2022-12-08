@@ -16,9 +16,7 @@ From there you will need to figure out:
 * How you will compare the user's and the computer's choice to determine the winner (or a draw).
 * And also how you will give feedback to the player. 
 
-You can find the "official" rules of the game on [the World Rock Paper Scissors Association website.](https://wrpsa.com/the-official-rules-of-rock-paper-scissors/)
 
 
-# Solution
 
-[https://replit.com/@appbrewery/rock-paper-scissors-end](https://replit.com/@appbrewery/rock-paper-scissors-end)
+
